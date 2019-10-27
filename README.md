@@ -1,6 +1,6 @@
 # Observatorio Colaborativo
 
-## Mision
+## Mision
 Internet es una fuente enorme de informacion que puede producir una percepcion de la realidad sesgada. Para tratar ese problema es necesario crear herramientas que faciliten la organizacion y evaluacion de esa informacion.
 
 ## Vision
