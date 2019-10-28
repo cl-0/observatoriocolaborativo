@@ -16,3 +16,4 @@ Validar hechos en espacios publicos mediante el consenso de pruebas visuales
 * Al momento de subir un video se sugieren contextos mas cercanos, tambien se da la posibilidad de crear un nuevo contexto
 * **Timeline que permita retroceder en el tiempo en unidades de dias**
 * El ingreso de registros de dias anteriores requiere moderacion (uso de cola de moderacion) debido a que es menos probable conseguir conseso de eventos pasados
+* Boton para publicar en Twitter (divulgacion de registro)
