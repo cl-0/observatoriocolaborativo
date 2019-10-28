@@ -17,3 +17,4 @@ Validar hechos en espacios publicos mediante el consenso de pruebas visuales
 * **Timeline que permita retroceder en el tiempo en unidades de dias**
 * El ingreso de registros de dias anteriores requiere moderacion (uso de cola de moderacion) debido a que es menos probable conseguir conseso de eventos pasados
 * Boton para publicar en Twitter (divulgacion de registro)
+* Magnetic link para descargar video por BitTorrent con DHT (permite aumentar la redundancia de los videos en red P2P)
